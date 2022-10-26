@@ -9,10 +9,7 @@ export class AppComponent {
   title = 'pruebas';
 
 
-  latitud: number = -31.30
-  longitud: number = -64.24
-
-
-
+   latitud: number = -31.30
+   longitud: number = -64.24
 
 }
